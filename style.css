@@ -14,78 +14,157 @@ body {
 }
 
 .inner-container {
-    background-color: #1a1f2e; /* Цвет внутреннего контейнера */
+    background-color: #1a1f2e;
     padding: 20px;
-    border-radius: 8px; /* Закругленные углы */
-    box-shadow: 0 0 30px rgba(13, 24, 29, 0.5); /* Более размытое голубоватое сияние */
-    margin-top: 20px; /* Отступ сверху */
-    min-height: 150px; /* Минимальная высота контейнера */
-    width: 300px; /* Фиксированная ширина контейнера */
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(28, 34, 13, 0.5);
+    margin-top: 20px;
+    min-height: 150px;
+    width: 300px;
     display: flex;
-    flex-direction: column; /* Вертикальная ориентация элементов */
-    justify-content: center; /* Центрирование содержимого по вертикали */
-    align-items: center; /* Центрирование содержимого по горизонтали */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .number-container {
-    display: flex; /* Горизонтальное расположение элементов */
-    align-items: center; /* Центрирование по вертикали */
-    justify-content: center; /* Центрирование по горизонтали */
-    margin-top: 20px; /* Отступ сверху для контейнера с цифрами */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
 }
 
 .arrow-button {
-    background-color: #785bf7; /* Цвет кнопки */
-    color: white; /* Цвет текста кнопки */
-    border: none; /* Удаление границы */
-    border-radius: 5px; /* Закругленные углы кнопки */
-    padding: 10px; /* Отступы внутри кнопки */
-    font-size: 16px; /* Размер шрифта */
-    cursor: pointer; /* Курсор при наведении */
-    margin: 0 10px; /* Горизонтальные отступы между кнопками и цифрой */
+    background-color: #785bf7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 10px;
 }
 
 .number-display {
-    font-size: 20px; /* Размер шрифта для цифры */
-    padding: 0 15px; /* Отступы слева и справа */
+    font-size: 20px;
+    padding: 0 15px;
 }
 
 .signal-button {
-    background-color: #785bf7; /* Цвет кнопки */
-    color: white; /* Цвет текста кнопки */
-    border: none; /* Удаление границы */
-    border-radius: 5px; /* Закругленные углы кнопки */
-    padding: 10px 20px; /* Отступы внутри кнопки */
-    font-size: 16px; /* Размер шрифта */
-    cursor: pointer; /* Курсор при наведении */
-    transition: background-color 0.3s; /* Плавный переход цвета фона */
-    margin-top: 20px; /* Отступ сверху для кнопки */
+    background-color: #785bf7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
 }
 
 .signal-button:hover {
-    background-color: #785bf7; /* Цвет кнопки при наведении */
+    background-color: #785bf7;
 }
 
 .signal-container {
-    margin-top: 20px; /* Отступ сверху для контейнера с изображением */
-    text-align: center; /* Центрирование содержимого */
+    margin-top: 20px;
+    text-align: center;
 }
 
 .signal-container img {
-    max-width: 100%; /* Ограничение ширины изображения */
-    height: auto; /* Автоматическая высота для пропорций */
-    width: 50%; /* Установка ширины изображения в 50% от контейнера */
-    border-radius: 8px; /* Закругленные углы изображения */
-    opacity: 1; /* Начальная непрозрачность */
-    transition: opacity 0.5s ease, transform 0.5s ease; /* Плавный переход для opacity и transform */
+    max-width: 100%;
+    height: auto;
+    width: 50%;
+    border-radius: 8px;
+    opacity: 1;
+    transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 .fade-out {
-    opacity: 0; /* Исчезновение */
-    transform: scale(0.8); /* Уменьшение размера */
+    opacity: 0;
+    transform: scale(0.8);
 }
 
 .fade-in {
-    opacity: 1; /* Появление */
-    transform: scale(1.0); /* Нормальный размер */
+    opacity: 1;
+    transform: scale(1.0);
+}
+
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+}
+
+.round-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 5px;
+    object-fit: cover;
+    transition: transform 0.2s, box-shadow 0.2s; 
+    box-shadow: 0 4px 8px rgba(29, 64, 133, 0.2);
+}
+
+.round-image:active {
+    transform: scale(0.9);
+    box-shadow: 0 2px 4px rgba(9, 144, 206, 0.2);
+}
+
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 100px;
+    height: auto;
+    z-index: 1000;
+}
+
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 0.5s forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-out {
+    opacity: 1;
+    animation: fadeOut 0.5s forwards;
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+
+.message-fade-in {
+    opacity: 0;
+    animation: messageFadeIn 0.5s forwards;
+}
+
+@keyframes messageFadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }
