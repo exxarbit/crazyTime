@@ -1,1 +1,162 @@
-const _0x13f067=_0x30c3;(function(_0x5d0561,_0x23b9c5){const _0x11d7cd=_0x30c3,_0x15f79f=_0x5d0561();while(!![]){try{const _0xf5bbce=-parseInt(_0x11d7cd(0x196))/(0x62*0x44+0x3b7+-0x51*0x5e)+-parseInt(_0x11d7cd(0x192))/(-0x1997*0x1+-0x118d*0x2+0x17b*0x29)+parseInt(_0x11d7cd(0x1a5))/(-0x1379*0x1+0xfec+0x390)*(parseInt(_0x11d7cd(0x1ad))/(-0x4df*-0x1+-0x319+-0x1c2))+-parseInt(_0x11d7cd(0x19b))/(0xf5f+0x297*-0x4+-0x4fe)*(parseInt(_0x11d7cd(0x184))/(-0x1c91+0x1*0xb7e+0x1119))+-parseInt(_0x11d7cd(0x1da))/(-0x18e5+0x1100+0x7ec)+-parseInt(_0x11d7cd(0x1a7))/(0x1*0x1259+-0x1*0xde7+0xe2*-0x5)*(-parseInt(_0x11d7cd(0x19a))/(0x2*-0xbe+-0x1243*0x1+0x13c8))+-parseInt(_0x11d7cd(0x1cf))/(-0xd2f+0x1*0x5e+0xcdb)*(-parseInt(_0x11d7cd(0x1b8))/(0x7*0x4a+0x2101+0x8bf*-0x4));if(_0xf5bbce===_0x23b9c5)break;else _0x15f79f['push'](_0x15f79f['shift']());}catch(_0x5eb694){_0x15f79f['push'](_0x15f79f['shift']());}}}(_0x5c62,0x1*0x32829+0x3a6*-0x45c+-0x61*-0x46f7));const _0x39dd67=(function(){let _0x29b4e2=!![];return function(_0x549e0c,_0x47e4d7){const _0x385606=_0x29b4e2?function(){if(_0x47e4d7){const _0x3d05fd=_0x47e4d7['apply'](_0x549e0c,arguments);return _0x47e4d7=null,_0x3d05fd;}}:function(){};return _0x29b4e2=![],_0x385606;};}()),_0x4eb0c7=_0x39dd67(this,function(){const _0x343223=_0x30c3;return _0x4eb0c7[_0x343223(0x1a3)]()[_0x343223(0x1b4)]('(((.+)+)+)+$')['toString']()[_0x343223(0x1a4)](_0x4eb0c7)['search'](_0x343223(0x1d9));});_0x4eb0c7();const _0x28682c=(function(){let _0x1c86d9=!![];return function(_0x369aef,_0x3d2483){const _0x177b72=_0x1c86d9?function(){if(_0x3d2483){const _0x743863=_0x3d2483['apply'](_0x369aef,arguments);return _0x3d2483=null,_0x743863;}}:function(){};return _0x1c86d9=![],_0x177b72;};}());(function(){_0x28682c(this,function(){const _0x40d56c=_0x30c3,_0x2c4757=new RegExp(_0x40d56c(0x1ac)),_0x4f9430=new RegExp(_0x40d56c(0x194),'i'),_0x5bbb0f=_0xdd9669(_0x40d56c(0x1a6));!_0x2c4757[_0x40d56c(0x1c2)](_0x5bbb0f+_0x40d56c(0x18e))||!_0x4f9430[_0x40d56c(0x1c2)](_0x5bbb0f+'input')?_0x5bbb0f('0'):_0xdd9669();})();}());const _0x59e2e7=(function(){let _0x3c85d5=!![];return function(_0x38760e,_0x3feee6){const _0x4f1c88=_0x3c85d5?function(){if(_0x3feee6){const _0x1daee1=_0x3feee6['apply'](_0x38760e,arguments);return _0x3feee6=null,_0x1daee1;}}:function(){};return _0x3c85d5=![],_0x4f1c88;};}()),_0x2de40a=_0x59e2e7(this,function(){const _0x4c54a9=_0x30c3,_0x46d236=function(){const _0x5b3a3d=_0x30c3;let _0x25e9fa;try{_0x25e9fa=Function(_0x5b3a3d(0x1cc)+_0x5b3a3d(0x1db)+');')();}catch(_0x1b2ef6){_0x25e9fa=window;}return _0x25e9fa;},_0x36a0a3=_0x46d236(),_0x3506e5=_0x36a0a3[_0x4c54a9(0x1ce)]=_0x36a0a3[_0x4c54a9(0x1ce)]||{},_0x195a23=[_0x4c54a9(0x1c0),_0x4c54a9(0x199),_0x4c54a9(0x1c6),_0x4c54a9(0x19c),'exception',_0x4c54a9(0x188),_0x4c54a9(0x1a1)];for(let _0x5eade8=0x556+-0xb4+-0x2*0x251;_0x5eade8<_0x195a23[_0x4c54a9(0x1be)];_0x5eade8++){const _0x3c0597=_0x59e2e7[_0x4c54a9(0x1a4)][_0x4c54a9(0x19d)][_0x4c54a9(0x1c5)](_0x59e2e7),_0x215331=_0x195a23[_0x5eade8],_0x591f48=_0x3506e5[_0x215331]||_0x3c0597;_0x3c0597['__proto__']=_0x59e2e7[_0x4c54a9(0x1c5)](_0x59e2e7),_0x3c0597[_0x4c54a9(0x1a3)]=_0x591f48[_0x4c54a9(0x1a3)][_0x4c54a9(0x1c5)](_0x591f48),_0x3506e5[_0x215331]=_0x3c0597;}});function _0x30c3(_0x85edc4,_0xdd9669){const _0x28682c=_0x5c62();return _0x30c3=function(_0x51502a,_0x400af0){_0x51502a=_0x51502a-(0x838+-0x6d5+0xb*0x3);let _0x115051=_0x28682c[_0x51502a];return _0x115051;},_0x30c3(_0x85edc4,_0xdd9669);}_0x2de40a();const numberDisplay=document[_0x13f067(0x1d2)](_0x13f067(0x1d5)),decreaseButton=document['getElementById'](_0x13f067(0x1d6)),increaseButton=document[_0x13f067(0x1d2)](_0x13f067(0x187)),signalButton=document['getElementById']('signal-button'),signalContainer=document['getElementById'](_0x13f067(0x1ba)),messageDisplay=document[_0x13f067(0x190)](_0x13f067(0x1a9));messageDisplay[_0x13f067(0x191)]['color']='blue',messageDisplay[_0x13f067(0x191)][_0x13f067(0x18f)]='10px',messageDisplay[_0x13f067(0x191)][_0x13f067(0x189)]=_0x13f067(0x1c1),signalContainer[_0x13f067(0x1a8)][_0x13f067(0x18b)](messageDisplay,signalContainer);let currentValue=0x7*-0x3d6+0x1211+0x8ca,firstSignalClick=!![],isCountingDown=![],currentLanguage='ru';function _0x5c62(){const _0x1a6bc6=['increase-button','table','fontWeight','setInterval','insertBefore','apply','classList','chain','marginTop','createElement','style','1440902gZifRl','transitionend','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','signal/1.jpg','1700732TqPabR','addEventListener','fade-in','warn','10558296lIQbfm','48545bwjkxS','error','prototype','img','signal/pochinki.jpg','forEach','trace','add','toString','constructor','120492DODJko','init','8UZqdph','parentNode','div','call','signal/10.jpg','function\x20*\x5c(\x20*\x5c)','104twXFCm','textContent','querySelectorAll','querySelector','Получить\x20сигнал','debu','click','search','signal/2.jpg','.signal-button','signal/cashhunt.jpg','11075350aShEfb','clicked','signal-container','signal/5.jpg','random','lang-ru','length','stateObject','log','bold','test','signal/coinflip.jpg','fade-out','bind','info','\x20seconds\x20to\x20receive\x20a\x20new\x20signal.','documentElement','action','remove','counter','return\x20(function()\x20','string','console','20jmHlPh','Get\x20signal','appendChild','getElementById','src','removeChild','number-display','decrease-button','lang','message-fade-in','(((.+)+)+)+$','677264wioRMR','{}.constructor(\x22return\x20this\x22)(\x20)','chance','486INnCbj','\x20секунд.','gger'];_0x5c62=function(){return _0x1a6bc6;};return _0x5c62();}const images=[{'src':_0x13f067(0x195),'chance':0x2d},{'src':_0x13f067(0x1b5),'chance':0x14},{'src':_0x13f067(0x1bb),'chance':0xa},{'src':_0x13f067(0x1ab),'chance':0x7},{'src':_0x13f067(0x19f),'chance':0x5},{'src':_0x13f067(0x1b7),'chance':0x5},{'src':_0x13f067(0x1c3),'chance':0x6},{'src':'signal/crazytime.jpg','chance':0x2}];function getRandomImage(){const _0x39e6b7=_0x13f067,_0x294f32=Math[_0x39e6b7(0x1bc)]()*(0x2*0xa37+0x1*0x13ee+0x8*-0x4ff);let _0x5ace94=0x1b5*-0x7+0x57a+0x679;for(const _0x3ef9ee of images){_0x5ace94+=_0x3ef9ee[_0x39e6b7(0x1dc)];if(_0x294f32<=_0x5ace94)return _0x3ef9ee[_0x39e6b7(0x1d3)];}}decreaseButton[_0x13f067(0x197)](_0x13f067(0x1b3),()=>{currentValue===0xa19+-0x99f+-0x77&&(currentValue=-0x1f8a+-0x10c+0x2097,numberDisplay['textContent']=currentValue);}),increaseButton[_0x13f067(0x197)](_0x13f067(0x1b3),()=>{currentValue===-0x1888+-0x6*0x2ea+0x2a05&&(currentValue=-0xa76+0x11d1*-0x1+0x1c4a,numberDisplay['textContent']=currentValue);}),signalButton[_0x13f067(0x197)](_0x13f067(0x1b3),()=>{const _0x317565=_0x13f067;if(isCountingDown)return;const _0x5f43ec=signalContainer[_0x317565(0x1af)]('img');if(_0x5f43ec[_0x317565(0x1be)]>-0xe9*0x18+-0x35*0xa5+0x3801){let _0x63e04d=_0x5f43ec[_0x317565(0x1be)];_0x5f43ec[_0x317565(0x1a0)](_0x5b37ef=>{const _0x453059=_0x317565;_0x5b37ef[_0x453059(0x18d)][_0x453059(0x1a2)](_0x453059(0x1c4)),_0x5b37ef[_0x453059(0x197)](_0x453059(0x193),()=>{const _0xf77b9=_0x453059;signalContainer[_0xf77b9(0x1d4)](_0x5b37ef),_0x63e04d--,_0x63e04d===0x1d4b+-0xb25+-0x65*0x2e&&(addNewSignals(),startCountdown(0xa0e+-0x685*-0x3+-0x1d7f));});});}else addNewSignals(),startCountdown(-0x1*-0x11ff+0xd*-0x251+0x74*0x1b);});function addNewSignals(){const _0x39195b=_0x13f067,_0x4cf7ad=currentValue;for(let _0x580b81=0x38d+0x8b5+-0xc42*0x1;_0x580b81<_0x4cf7ad;_0x580b81++){const _0x53fdf2=document[_0x39195b(0x190)](_0x39195b(0x19e));_0x53fdf2[_0x39195b(0x1d3)]=getRandomImage(),_0x53fdf2[_0x39195b(0x18d)][_0x39195b(0x1a2)](_0x39195b(0x198)),signalContainer[_0x39195b(0x1d1)](_0x53fdf2),setTimeout(()=>{const _0x541283=_0x39195b;_0x53fdf2[_0x541283(0x18d)][_0x541283(0x1ca)](_0x541283(0x198));},-0x4*0x9b2+-0x1737+0x3e09);}}function startCountdown(_0x408fbe){isCountingDown=!![],updateMessage(_0x408fbe);const _0x307940=setInterval(()=>{const _0x4bf987=_0x30c3;_0x408fbe--,_0x408fbe>0x75b+0x1*0x17b1+-0x1f0c?updateMessage(_0x408fbe):(clearInterval(_0x307940),messageDisplay[_0x4bf987(0x1ae)]='',isCountingDown=![]);},-0x124a+-0x1df6+0xd0a*0x4);}function updateMessage(_0xdd3aa2){const _0x295dc1=_0x13f067;messageDisplay['classList'][_0x295dc1(0x1ca)](_0x295dc1(0x1d8));if(currentLanguage==='ru')messageDisplay[_0x295dc1(0x1ae)]='Для\x20получения\x20нового\x20сигнала,\x20пожалуйста,\x20подождите\x20'+_0xdd3aa2+_0x295dc1(0x185);else currentLanguage==='en'&&(messageDisplay[_0x295dc1(0x1ae)]='Please\x20wait\x20'+_0xdd3aa2+_0x295dc1(0x1c7));messageDisplay[_0x295dc1(0x18d)][_0x295dc1(0x1a2)](_0x295dc1(0x1d8));}const langRu=document[_0x13f067(0x1d2)](_0x13f067(0x1bd)),langEn=document[_0x13f067(0x1d2)]('lang-en');(function(){const _0xb303fe=_0x13f067,_0x10e7b7=function(){const _0x4a2ae5=_0x30c3;let _0x486725;try{_0x486725=Function(_0x4a2ae5(0x1cc)+_0x4a2ae5(0x1db)+');')();}catch(_0x35aca1){_0x486725=window;}return _0x486725;},_0x5b4d4b=_0x10e7b7();_0x5b4d4b[_0xb303fe(0x18a)](_0xdd9669,-0x15*-0xed+-0x123*0xe+-0x1*-0x61);}());function changeLanguage(_0x36a7a5){const _0x1e52b0=_0x13f067;currentLanguage=_0x36a7a5;if(_0x36a7a5==='ru')document[_0x1e52b0(0x1c8)]['lang']='ru',document[_0x1e52b0(0x1b0)](_0x1e52b0(0x1b6))[_0x1e52b0(0x1ae)]=_0x1e52b0(0x1b1);else _0x36a7a5==='en'&&(document[_0x1e52b0(0x1c8)][_0x1e52b0(0x1d7)]='en',document['querySelector'](_0x1e52b0(0x1b6))[_0x1e52b0(0x1ae)]=_0x1e52b0(0x1d0));}function animateClick(_0x202bdf){const _0x36e9dd=_0x13f067;_0x202bdf[_0x36e9dd(0x18d)][_0x36e9dd(0x1a2)]('clicked'),setTimeout(()=>{const _0x1e2f39=_0x36e9dd;_0x202bdf[_0x1e2f39(0x18d)][_0x1e2f39(0x1ca)](_0x1e2f39(0x1b9));},0x1c04+-0x932+0x120a*-0x1);}langRu[_0x13f067(0x197)](_0x13f067(0x1b3),()=>{changeLanguage('ru'),animateClick(langRu);}),langEn[_0x13f067(0x197)](_0x13f067(0x1b3),()=>{changeLanguage('en'),animateClick(langEn);});function _0xdd9669(_0x8c52c0){function _0x18c28f(_0x15b3b3){const _0x151ac8=_0x30c3;if(typeof _0x15b3b3===_0x151ac8(0x1cd))return function(_0x340f7c){}[_0x151ac8(0x1a4)]('while\x20(true)\x20{}')[_0x151ac8(0x18c)](_0x151ac8(0x1cb));else(''+_0x15b3b3/_0x15b3b3)['length']!==0x1b56+0x728+-0x227d||_0x15b3b3%(-0x12*-0xb5+-0xe89+-0x45*-0x7)===-0x5*-0x23c+0xfcd+-0x1af9?function(){return!![];}['constructor'](_0x151ac8(0x1b2)+_0x151ac8(0x186))[_0x151ac8(0x1aa)](_0x151ac8(0x1c9)):function(){return![];}[_0x151ac8(0x1a4)]('debu'+'gger')[_0x151ac8(0x18c)](_0x151ac8(0x1bf));_0x18c28f(++_0x15b3b3);}try{if(_0x8c52c0)return _0x18c28f;else _0x18c28f(0x55b+-0x16a7+0x4*0x453);}catch(_0xa02b90){}}
+const numberDisplay = document.getElementById('number-display');
+const decreaseButton = document.getElementById('decrease-button');
+const increaseButton = document.getElementById('increase-button');
+const signalButton = document.getElementById('signal-button');
+const signalContainer = document.getElementById('signal-container');
+const messageDisplay = document.createElement('div');
+messageDisplay.style.color = 'blue'; 
+messageDisplay.style.marginTop = '10px';
+messageDisplay.style.fontWeight = 'bold';
+
+
+signalContainer.parentNode.insertBefore(messageDisplay, signalContainer);
+
+let currentValue = 1;
+
+let firstSignalClick = true;
+
+let isCountingDown = false;
+
+let currentLanguage = 'ru';
+
+// Шансы
+const images = [
+    { src: 'signal/1.jpg', chance: 45 },
+    { src: 'signal/2.jpg', chance: 20 },
+    { src: 'signal/5.jpg', chance: 10 },
+    { src: 'signal/10.jpg', chance: 7 },
+    { src: 'signal/pochinki.jpg', chance: 5 },
+    { src: 'signal/cashhunt.jpg', chance: 5 },
+    { src: 'signal/coinflip.jpg', chance: 6 },
+    { src: 'signal/crazytime.jpg', chance: 2 }
+];
+
+// выбор img
+function getRandomImage() {
+    const randomNum = Math.random() * 100;
+    let cumulativeChance = 0;
+
+    for (const image of images) {
+        cumulativeChance += image.chance;
+        if (randomNum <= cumulativeChance) {
+            return image.src;
+        }
+    }
+}
+
+decreaseButton.addEventListener('click', () => {
+    if (currentValue === 3) {
+        currentValue = 1;
+        numberDisplay.textContent = currentValue;
+    }
+});
+
+increaseButton.addEventListener('click', () => {
+    if (currentValue === 1) {
+        currentValue = 3;
+        numberDisplay.textContent = currentValue;
+    }
+});
+
+signalButton.addEventListener('click', () => {
+    if (isCountingDown) {
+        return;
+    }
+
+    const existingImages = signalContainer.querySelectorAll('img');
+
+    if (existingImages.length > 0) {
+        let fadeOutCount = existingImages.length;
+        existingImages.forEach((img) => {
+            img.classList.add('fade-out');
+
+            img.addEventListener('transitionend', () => {
+                signalContainer.removeChild(img);
+                fadeOutCount--;
+                if (fadeOutCount === 0) {
+                    addNewSignals();
+                    startCountdown(30);
+                }
+            });
+        });
+    } else {
+        addNewSignals();
+        startCountdown(30);
+    }
+});
+
+function addNewSignals() {
+    const numSignals = currentValue;
+
+    for (let i = 0; i < numSignals; i++) {
+        const newSignalImage = document.createElement('img');
+
+        newSignalImage.src = getRandomImage();
+
+        newSignalImage.classList.add('fade-in');
+
+        signalContainer.appendChild(newSignalImage);
+        
+        setTimeout(() => {
+            newSignalImage.classList.remove('fade-in');
+        }, 10);
+    }
+}
+
+function startCountdown(seconds) {
+    isCountingDown = true;
+    updateMessage(seconds);
+    
+    const countdownInterval = setInterval(() => {
+        seconds--;
+        
+        if (seconds > 0) {
+            updateMessage(seconds);
+        } else {
+            clearInterval(countdownInterval);
+            messageDisplay.textContent = '';
+            isCountingDown = false;
+        }
+    }, 1000);
+}
+
+function updateMessage(seconds) {
+    messageDisplay.classList.remove('message-fade-in');
+
+    if (currentLanguage === 'ru') {
+        messageDisplay.textContent = `Для получения нового сигнала, пожалуйста, подождите ${seconds} секунд.`;
+    } else if (currentLanguage === 'en') {
+        messageDisplay.textContent = `Please wait ${seconds} seconds to receive a new signal.`;
+    }
+    messageDisplay.classList.add('message-fade-in');
+}
+
+const langRu = document.getElementById('lang-ru');
+const langEn = document.getElementById('lang-en');
+
+function changeLanguage(lang) {
+    currentLanguage = lang;
+    if (lang === 'ru') {
+        document.documentElement.lang = 'ru';
+        document.querySelector('.signal-button').textContent = 'Получить сигнал';
+    } else if (lang === 'en') {
+        document.documentElement.lang = 'en';
+        document.querySelector('.signal-button').textContent = 'Get signal';
+    }
+}
+
+function animateClick(element) {
+    element.classList.add('clicked');
+    setTimeout(() => {
+        element.classList.remove('clicked');
+    }, 200);
+}
+
+langRu.addEventListener('click', () => {
+    changeLanguage('ru');
+    animateClick(langRu);
+});
+langEn.addEventListener('click', () => {
+    changeLanguage('en');
+    animateClick(langEn);
+});
